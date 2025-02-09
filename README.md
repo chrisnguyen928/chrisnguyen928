@@ -1,5 +1,5 @@
-<h1>Hi, I'm Chris </h1> 
-<h2>Aspiring Software Developer</h2>
+<h1>Hi, I'm Christopher</h1> 
+<h2>Aspiring Full-Stack Developer/IT Enthusiast</h2>
 <p>
   I’m a passionate and driven individual actively working toward breaking into the tech industry. With a strong interest in IT and cybersecurity, I am currently preparing to take the CompTIA Security+ certification exam to solidify my foundational knowledge and demonstrate my commitment to the field.
   
